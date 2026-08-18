@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hossein Mirsaeidi"
 title_separator          : "-"
 name                     : &name "Hossein Mirsaeidi"
-description              : &description "M.Sc. Student, Aerospace Engineering (Dynamics and Control)"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Control Theory, Safe Control, Multi-Agent Systems, Robotics, and Intelligent Systems"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hossein-mirsaeidi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Hossein Mirsaeidi"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. Student, Aerospace Engineering (Dynamics and Control)"
-  location         : "Iran"
-  employer         : # "Sharif University of Technology"
+  bio              : "M.Sc. Student, Aerospace Engineering (Dynamics and Control), Sharif University of Technology. Research interests: Control Theory, Safe Control, Multi-Agent Systems, Robotics, and Intelligent Systems."
+  location         : "Tehran, Iran"
+  employer         : "Sharif University of Technology"
   uri              : # URL
   email            : "hosseinmirsaeidi@yahoo.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=gtZlu-IAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "hossein-mirsaeidi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
