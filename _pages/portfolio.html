@@ -7,8 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-
+<h2>Graduate Projects</h2><hr />
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.category == "graduate" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+<h2>Undergraduate Projects</h2><hr />
+{% for post in site.portfolio %}
+  {% if post.category == "undergraduate" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}

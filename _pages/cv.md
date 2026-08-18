@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
+A [PDF version](/files/CV_Hossein_Mirsaeidi.pdf) of this CV is also available.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Aerospace Engineering, Majoring in Dynamics and Control, Sharif University of Technology, Sep 2024 - Present. Cumulative GPA: 19.16/20. Thesis: "Safe Intelligent Deadlock Resolution in Cluttered Environments for Multi-Agent Systems."
+* B.Sc. in Aerospace Engineering, Sharif University of Technology, Sep 2020 - Sep 2024. Cumulative GPA: 18.70/20. Thesis: "Hardware-in-the-loop Simulation for a Swarm of Autonomous Drones with Obstacle Avoidance Capability."
+* High School Diploma, Mathematics, National Organization for Development of Exceptional Talents, Isfahan, Iran, Sep 2017 - May 2020. Cumulative GPA: 19.54/20.
 
-Work experience
+Academic Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research Assistant, Department of Aerospace Engineering, CNAV Lab, Sharif University of Technology, Tehran, Iran
+  * Implementing quadrotor swarms using Crazyflie platforms (Present)
+  * Guiding undergraduate students in implementing outdoor drone swarms using PX4 (Fall 2025)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching Assistant, Department of Aerospace Engineering, Sharif University of Technology, Tehran, Iran
+  * Advanced Flight Dynamics, Instructor: Dr. Alireza Sharifi (Fall 2025)
+  * Automatic Control (x2), Instructor: Dr. Alireza Sharifi (Spring 2023, Spring 2026)
+  * Control Systems Laboratory (x4), Instructor: Dr. Alireza Sharifi (Spring 2023, Summer & Fall 2024, Fall 2025)
+  * Dynamics (x3), Instructor: Dr. Alireza Sharifi (Fall 2022, Fall 2023, Fall 2025)
+  * Orbital Mechanics, Instructor: Dr. Maryam Kiani (Spring 2023)
+  * Strength of Materials, Instructor: Dr. Hossein M. Navazi (Fall 2022)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Programming: MATLAB (Advanced), Python (Intermediate), C (Basic)
+* Simulation & Design: MATLAB (Simulink & Simscape), Systems Tool Kit, Solidworks, Ansys (Mechanical & Fluent)
+* Hardware: Crazyflie platform, Raspberry Pi, Arduino, PX4 firmware, QGroundControl
+* General: Windows, Linux, Microsoft Office, Git, LaTeX
+* Other: Model-Based Design, Teaching, Problem-solving, Team Leadership
+
+Languages
+======
+* Persian (Native)
+* English (Advanced, TOEFL iBT: 95/120 - Reading 24, Listening 26, Speaking 23, Writing 22)
+* Arabic (Beginner)
+
+Honors
+======
+* Accepted through the National University Entrance Exam to Sharif University of Technology, Department of Aerospace Engineering, ranked among the top 0.7% of approximately 150,000 participants (2020)
+* Ranked 4th out of 73 students in the 2020 Aerospace Engineering undergraduate degree (2024)
+* 5th rank in the National M.Sc. Entrance Exam in Aerospace Engineering of Iranian universities (2024)
+* Admitted to the Master's program in Aerospace Engineering under the Exceptional Talent Students scheme (2024)
